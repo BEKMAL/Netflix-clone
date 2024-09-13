@@ -1,5 +1,5 @@
 {
-  "homepage": "https://BEKMAL/github.io/netflix-clone-2024",
+  
   "name": "netflix-clone-2024",
   
   "private": true,
@@ -9,8 +9,7 @@
   "type": "module",
   
   "scripts": {
-  "predeploy":"npm run build",
-  "deploy":"gh-pages -d dist",
+ 
     
   "dev": "vite",
   
